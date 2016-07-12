@@ -203,7 +203,7 @@ See https://www.instagram.com/developer/endpoints/ for more details about differ
 #### Relationships
 
 * [get-follows](https://immoh.github.io/clj-instagram/clj-instagram.endpoints.html#var-get-follows)
-* [get-fllowed-by](https://immoh.github.io/clj-instagram/clj-instagram.endpoints.html#var-get-fllowed-by)
+* [get-followed-by](https://immoh.github.io/clj-instagram/clj-instagram.endpoints.html#var-get-followed-by)
 * [get-requested-by](https://immoh.github.io/clj-instagram/clj-instagram.endpoints.html#var-get-requested-by)
 * [get-relationship](https://immoh.github.io/clj-instagram/clj-instagram.endpoints.html#var-get-relationship)
 * [modify-relationship](https://immoh.github.io/clj-instagram/clj-instagram.endpoints.html#var-modify-relationship)
