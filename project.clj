@@ -1,4 +1,4 @@
-(defproject clj-instagram "0.1.0-SNAPSHOT"
+(defproject clj-instagram "0.1.0"
   :description "Clojure client for Instagram API"
   :url "https://github.com/immoh/clj-instagram"
   :source-paths ["src"]
