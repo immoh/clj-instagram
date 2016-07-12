@@ -1,4 +1,4 @@
-# clj-instagram
+# clj-instagram [![Build Status](https://travis-ci.org/immoh/clj-instagram.svg?branch=master)](https://travis-ci.org/immoh/clj-instagram)
 
 Clojure client for Instagram API.
 
