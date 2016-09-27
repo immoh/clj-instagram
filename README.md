@@ -11,7 +11,7 @@ at https://www.instagram.com/developer/.
 Add to your Leiningen/Boot dependencies:
 
 ```clj
-[clj-instagram "0.1.0"]
+[clj-instagram "0.2.0"]
 ```
 
 ## Quick Start
